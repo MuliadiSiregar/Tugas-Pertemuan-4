@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmenAppsMuliadiSiregar</string>
+    <string name="action_setting">Setting</string>
+
+    <string name="hello_blank_fragment">Hello Blank Fragment</string>
+    <string name="title_actifity_second">SecondActifity</string>
+    <string name="pencet_tombol">Tekan Tombolnya!</string>
+    <string name="tampil_tombol">Tampilkan Detail</string>
+    <string name="disini_tampil">Disini kami memili detailnya!</string>
+</resources>
